@@ -1,7 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/ScrollToPlugin.min.js"></script>
-
-<script>
 document.addEventListener("DOMContentLoaded", function() {
   // Check if the screen width is 991px or less
   if (window.innerWidth <= 991) {
@@ -44,4 +40,3 @@ document.addEventListener("DOMContentLoaded", function() {
     }, 10); // Short delay to catch immediate interactions
   }
 });
-</script>
